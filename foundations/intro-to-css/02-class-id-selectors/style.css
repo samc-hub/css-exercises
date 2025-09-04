@@ -1,0 +1,19 @@
+.red {
+    background-color: rgb(231, 132, 132);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#title {
+    color: rgb(162, 165, 253);
+    font-size: 36px
+}
+
+#header {
+    background-color: rgb(208, 253, 162);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#fonto {
+    font-size: 24px;
+}
