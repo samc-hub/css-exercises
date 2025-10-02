@@ -10,7 +10,20 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
 }
+
+
+
+.plant-container {
+  background-color: beige;
+}
+
+
+
+
+
 
 /* do not edit this footer */
 .footer {
