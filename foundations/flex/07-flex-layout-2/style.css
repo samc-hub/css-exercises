@@ -64,3 +64,8 @@ a, li {
   list-style-type: none;
   color: #eee;
 }
+
+.content {
+  display: flex;
+  flex-grow: 1;
+}
